@@ -3,5 +3,11 @@
  */
 Ext.define('TeachableMachine.view.main.MainModel', {
     extend: 'Ext.app.ViewModel',
-    alias: 'viewmodel.main'
+    alias: 'viewmodel.main',
+    data: {
+        objectName: null,
+        teachingProgress: 0,
+        isDone: false,
+        result: {}
+    }
 });

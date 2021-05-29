@@ -209,6 +209,18 @@
         {
             "path": "app.js",
             "bundle": true
+        },
+        {
+            "path": "https://cdn.jsdelivr.net/npm/@tensorflow/tfjs",
+            "remote": true
+        },
+        {
+            "path": "https://cdn.jsdelivr.net/npm/@tensorflow-models/mobilenet",
+            "remote": true
+        },
+        {
+            "path": "https://cdn.jsdelivr.net/npm/@tensorflow-models/knn-classifier",
+            "remote": true
         }
     ],
 
