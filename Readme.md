@@ -1,3 +1,5 @@
+Try here: https://policeno.com/app/teachable-machine-extjs
+
 # TeachableMachine
 
 This folder is primarily a container for the top-level pieces of the application.
